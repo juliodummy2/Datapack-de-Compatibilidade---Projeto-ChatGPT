@@ -1,0 +1,9 @@
+#If enabled, replaces standard storages UI with fallout stylized one
+useFalloutStorageUI = false
+#If enabled, replaces standard player HUD with fallout stylized one
+useFalloutHUD = false
+#If enabled, renders compass HUD
+renderCompassHUD = true
+#If enabled, renders enemy health bar
+renderEnemyHealthBar = true
+

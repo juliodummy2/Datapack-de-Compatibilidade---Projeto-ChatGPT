@@ -1,0 +1,206 @@
+{
+  "stand_arrow_poolv5": [
+    "roundabout:justice_disc",
+    "roundabout:soft_and_wet_disc",
+    "roundabout:walking_heart_disc",
+    "roundabout:magicians_red_disc",
+    "roundabout:white_album_disc",
+    "roundabout:ratt_disc",
+    "roundabout:star_platinum_disc",
+    "roundabout:the_world_disc"
+  ],
+  "stand_arrow_secondary_poolv7": [
+    "roundabout:cinderella_disc",
+    "roundabout:california_king_bed_disc",
+    "roundabout:achtung_baby_disc",
+    "roundabout:hey_ya_disc",
+    "roundabout:mandom_disc",
+    "roundabout:survivor_disc",
+    "roundabout:manhattan_transfer_disc"
+  ],
+  "natural_stand_user_mob_poolv8": [
+    "roundabout:justice_disc",
+    "roundabout:soft_and_wet_disc",
+    "roundabout:cinderella_disc",
+    "roundabout:magicians_red_disc",
+    "roundabout:white_album_disc",
+    "roundabout:achtung_baby_disc",
+    "roundabout:star_platinum_disc",
+    "roundabout:the_world_disc",
+    "roundabout:manhattan_transfer_disc",
+    "roundabout:walking_heart_disc",
+    "roundabout:ratt_disc",
+    "roundabout:california_king_bed_disc"
+  ],
+  "food_that_gives_blood_list_v6": [
+    "minecraft:porkchop:3:1.5F",
+    "minecraft:rotten_flesh:2:1F",
+    "roundabout:flesh_block:3:1.5F",
+    "minecraft:pufferfish:2:1F",
+    "minecraft:rabbit:3:1F",
+    "minecraft:chicken:2:1F",
+    "minecraft:tropical_fish:2:1F",
+    "minecraft:mutton:2:1.5F",
+    "minecraft:cod:2:1F",
+    "minecraft:spider_eye:2:1F",
+    "minecraft:beef:3:1.5F",
+    "minecraft:salmon:2:1.5F"
+  ],
+  "food_that_has_effects_for_vampires_v1": [
+    "roundabout:new_locacaca",
+    "minecraft:golden_apple",
+    "minecraft:enchanted_golden_apple",
+    "roundabout:cherries",
+    "roundabout:locacaca"
+  ],
+  "humanoid_only_stand_user_mob_poolv2": [
+    "roundabout:hey_ya_disc",
+    "roundabout:mandom_disc"
+  ],
+  "walking_heart_walk_on_block_blacklist2": [
+    "minecraft:mud",
+    "minecraft:barrier"
+  ],
+  "freezable_blocks_list_w_a": [
+    "minecraft:nether_bricks:roundabout:frozen_nether_bricks",
+    "minecraft:end_stone:roundabout:frozen_end_stone",
+    "minecraft:diorite:roundabout:frozen_diorite",
+    "minecraft:red_sand:roundabout:frozen_red_sand",
+    "minecraft:obsidian:roundabout:frozen_obsidian",
+    "minecraft:netherrack:roundabout:frozen_netherrack",
+    "minecraft:gravel:roundabout:frozen_gravel",
+    "minecraft:grass_block:roundabout:frozen_dirt",
+    "minecraft:andesite:roundabout:frozen_andesite",
+    "minecraft:podzol:roundabout:frozen_dirt",
+    "minecraft:sandstone:roundabout:frozen_sandstone",
+    "minecraft:crimson_nylium:roundabout:frozen_netherrack",
+    "minecraft:red_sandstone:roundabout:frozen_red_sandstone",
+    "minecraft:granite:roundabout:frozen_granite",
+    "minecraft:cobblestone:roundabout:frozen_cobblestone",
+    "minecraft:dirt:roundabout:frozen_dirt",
+    "minecraft:sand:roundabout:frozen_sand",
+    "minecraft:warped_nylium:roundabout:frozen_netherrack",
+    "minecraft:stone_bricks:roundabout:frozen_stone_bricks",
+    "minecraft:stone:roundabout:frozen_stone",
+    "minecraft:cobbled_deepslate:roundabout:frozen_cobbled_deepslate",
+    "minecraft:mycelium:roundabout:frozen_dirt",
+    "minecraft:deepslate:roundabout:frozen_deepslate"
+  ],
+  "freezable_blocks_flint_and_steel": [
+    "minecraft:nether_bricks:roundabout:frozen_nether_bricks",
+    "minecraft:end_stone:roundabout:frozen_end_stone",
+    "minecraft:diorite:roundabout:frozen_diorite",
+    "minecraft:red_sand:roundabout:frozen_red_sand",
+    "minecraft:obsidian:roundabout:frozen_obsidian",
+    "minecraft:netherrack:roundabout:frozen_netherrack",
+    "minecraft:gravel:roundabout:frozen_gravel",
+    "minecraft:andesite:roundabout:frozen_andesite",
+    "minecraft:sandstone:roundabout:frozen_sandstone",
+    "minecraft:red_sandstone:roundabout:frozen_red_sandstone",
+    "minecraft:cobblestone:roundabout:frozen_cobblestone",
+    "minecraft:granite:roundabout:frozen_granite",
+    "minecraft:dirt:roundabout:frozen_dirt",
+    "minecraft:sand:roundabout:frozen_sand",
+    "minecraft:stone_bricks:roundabout:frozen_stone_bricks",
+    "minecraft:stone:roundabout:frozen_stone",
+    "minecraft:cobbled_deepslate:roundabout:frozen_cobbled_deepslate",
+    "minecraft:deepslate:roundabout:frozen_deepslate"
+  ],
+  "stand_block_grab_blacklist": [
+    "minecraft:ancient_debris",
+    "minecraft:crying_obsidian"
+  ],
+  "stand_block_explosion_blacklist": [
+    "minecraft:bedrock",
+    "minecraft:barrier",
+    "minecraft:light",
+    "minecraft:obsidian"
+  ],
+  "sheer_heart_attack_custom_block_heat": [
+    "minecraft:torch:4",
+    "minecraft:soul_torch:3",
+    "minecraft:redstone_torch:1",
+    "minecraft:nether_portal:0",
+    "minecraft:cave_vines:0",
+    "minecraft:glow_lichen:0",
+    "minecraft:light_block:0",
+    "minecraft:cave_vines_plant:0",
+    "minecraft:end_portal:0"
+  ],
+  "sheer_heart_attack_custom_entity_heat": [
+    "minecraft:blaze:90",
+    "roundabout:stray_cat_entity:0",
+    "minecraft:magna_cube:70",
+    "minecraft:slime:0",
+    "minecraft:stray:-50"
+  ],
+  "stand_destruction_blacklist": [
+    "minecraft:diamond_block",
+    "minecraft:redstone_block",
+    "minecraft:netherite_block",
+    "minecraft:emerald_block",
+    "minecraft:reinforced_deepslate",
+    "minecraft:cobblestone_wall",
+    "minecraft:gold_block"
+  ],
+  "unbreakable_thrown_items": [
+    "mod_id:add_mod_item",
+    "mod_id:add_other_mod_item"
+  ],
+  "occult_charge_effects_to_banishv2": [
+    "minecraft:saturation",
+    "minecraft:jump_boost",
+    "minecraft:resistance",
+    "minecraft:strength",
+    "minecraft:speed",
+    "minecraft:absorption"
+  ],
+  "natural_stand_user_mob_blacklist": [
+    "minecraft:zombie_horse",
+    "minecraft:vex"
+  ],
+  "hypnotism_mob_black_list": [
+    "minecraft:wither",
+    "minecraft:warden",
+    "minecraft:ender_dragon"
+  ],
+  "flesh_bud_mob_blacklist": [
+    "minecraft:piglin",
+    "minecraft:zoglin",
+    "minecraft:zombified_piglin",
+    "minecraft:piglin_brute",
+    "minecraft:hoglin"
+  ],
+  "added_mobs_with_red_blood": [
+    "mod_id:add_entry_here",
+    "mod_id:add_other_entry_here"
+  ],
+  "added_mobs_with_blue_blood": [
+    "mod_id:add_entry_here",
+    "mod_id:add_other_entry_here"
+  ],
+  "added_mobs_with_ender_blood": [
+    "mod_id:add_entry_here",
+    "mod_id:add_other_entry_here"
+  ],
+  "remove_blood_from_these": [
+    "mod_id:add_entry_here",
+    "mod_id:add_other_entry_here"
+  ],
+  "remove_freezable_mobsv2": [
+    "minecraft:blaze",
+    "minecraft:stray",
+    "minecraft:magma_cube",
+    "minecraft:vex",
+    "minecraft:allay",
+    "minecraft:snow_golem"
+  ],
+  "powerful_mobs": [
+    "mowziesmobs:umvuthi",
+    "mowziesmobs:frostmaw",
+    "mowziesmobs:ferrous_wroughtnaut"
+  ],
+  "vampire_sun_damage_worlds": [
+    "overworld"
+  ]
+}
